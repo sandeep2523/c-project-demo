@@ -20,4 +20,3 @@ void biggest2() {
    
    // return 0;  
 }
-echo "dummy"
