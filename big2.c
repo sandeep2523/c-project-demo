@@ -20,3 +20,4 @@ void biggest2() {
    
    // return 0;  
 }
+echo "big2 is dummy"
